@@ -58,4 +58,4 @@ The system shall satisfy the following conditions:
 - PLC Ladder Simulator Online
   
 ## Simulation Output
- ![Ladder Diagram](images/ladder_diagram.png)
+ ![Ladder Diagram](Screenshot_20260427_201330_Chrome.jpg)
