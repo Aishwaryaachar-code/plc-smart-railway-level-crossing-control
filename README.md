@@ -37,6 +37,5 @@ Design and simulate a PLC-based Smart Railway Level Crossing Control System usin
 ## Software Used
 - PLC Ladder Simulator Online
 
-### Simulation Results
-### Simulation Results
+### Ladder Diagram
 ![Ladder Diagram](https://github.com/user-attachments/assets/62ab9170-3d24-420c-9151-90edc5183347)
